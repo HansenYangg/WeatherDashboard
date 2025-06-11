@@ -1,1 +1,1 @@
-Amazing weather app I made in 20 min made up of mock data
+Amazing weather dashboard I made in 20 min made up of mock data
